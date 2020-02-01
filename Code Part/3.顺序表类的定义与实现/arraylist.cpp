@@ -11,7 +11,7 @@
 */
 # include<iostream>
 using namespace std;
-# include "list.h"
+# include "arraylist.h"
 int main()
 {
     int num[10] = {1,5,2,3,4,7,8,9,10,0};
