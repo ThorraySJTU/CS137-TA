@@ -8,7 +8,7 @@ class Parent
 
      char data[20];
      void Function1();
-     virtual void Function2();   // ÕâÀïÉùÃ÷Function2ÊÇĞéº¯Êı
+     virtual void Function2();   // Ã•Ã¢Ã€Ã¯Ã‰Ã¹ÃƒÃ·Function2ÃŠÃ‡ÃÃ©ÂºÂ¯ÃŠÃ½
 
  }parent;
 
@@ -22,7 +22,7 @@ class Parent
      cout<<"This is parent, function2\n";
  }
 
- class Child:public Parent//Child¼Ì³ĞParent
+ class Child:public Parent//ChildÂ¼ÃŒÂ³ÃParent
  {
      void Function1();
      void Function2();
