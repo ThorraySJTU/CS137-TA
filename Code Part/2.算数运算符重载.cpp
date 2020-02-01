@@ -10,8 +10,8 @@ public:
     complex operator*(const complex &A) const;
     void display() const;
 private:
-    double m_real;  //ʵ��
-    double m_imag;  //�鲿
+    double m_real;  //Êµ²¿
+    double m_imag;  //Ðé²¿
 };
 complex::complex(): m_real(0.0), m_imag(0.0){}
 
