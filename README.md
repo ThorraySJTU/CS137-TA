@@ -17,7 +17,7 @@ TA邮箱：datastructureta@163.com ，提问请备注姓名
 - 排序
 - 搜索
 - 索引
-- 图论
+- 图
 - 常见算法设计
 
 ## Github内容
